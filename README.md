@@ -1,5 +1,4 @@
 # Book_Catalog_project
-# Book Catalog Project
 
 ## Description
 
