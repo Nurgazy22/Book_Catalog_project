@@ -23,7 +23,7 @@ Book Catalog Project is a web application for managing a catalog of books. Users
 2. Create and activate a virtual environment:
 
     ```sh
-    python -m venv .venv
+    python3 -m venv .venv
     source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
     ```
 
